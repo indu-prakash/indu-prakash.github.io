@@ -1,0 +1,10 @@
+body {
+	font-family: 'Open Sans';
+}
+.cursorpointer{
+	cursor: pointer;
+}
+.fontsize2{
+	font-size: 2em;
+	padding-left: 5px;
+}
