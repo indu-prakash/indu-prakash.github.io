@@ -1,5 +1,5 @@
 body {
-	font-family: 'Open Sans';
+	
 }
 .cursorpointer{
 	cursor: pointer;
@@ -7,4 +7,26 @@ body {
 .fontsize2{
 	font-size: 2em;
 	padding-left: 5px;
+}
+.darkbg{
+	background-color: #4B3768;
+	height: 400px;
+	text-align: center;
+}
+.lightbg{
+	background-color: #edebef;
+	height: 400px;
+	text-align: center;
+}
+.topheading{
+	font-family: 'Pacifico';
+	color: #fff;
+	font-size: 4em;
+	padding-top: 5%;
+}
+.secondheading{
+	font-family: 'OpenSansSemibold';
+	color: #fff;
+	font-size: 2em;
+	padding-top: 50px;
 }

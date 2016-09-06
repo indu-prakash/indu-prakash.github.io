@@ -1,0 +1,106 @@
+@font-face {
+	font-family: Pacifico;
+	src: url(pacifico/Pacifico.ttf);
+}
+@font-face {
+	font-family: OpenSansBold;
+	src: url(OpenSans/OpenSans-Bold.woff);
+}
+@font-face {
+	font-family: OpenSansBoldItalic;
+	src: url(OpenSans/OpenSans-BoldItalic.woff);
+}
+@font-face {
+	font-family: OpenSansExtraBold;
+	src: url(OpenSans/OpenSans-ExtraBold.woff);
+}
+@font-face {
+	font-family: OpenSansExtraBoldItalic;
+	src: url(OpenSans/OpenSans-ExtraBoldItalic.woff);
+}
+@font-face {
+	font-family: OpenSansItalic;
+	src: url(OpenSans/OpenSans-Italic.woff);
+}
+@font-face {
+	font-family: OpenSansLight;
+	src: url(OpenSans/OpenSans-Light.woff);
+}
+@font-face {
+	font-family: OpenSansLightItalic;
+	src: url(OpenSans/OpenSans-LightItalic.woff);
+}
+@font-face {
+	font-family: OpenSansLightRegular;
+	src: url(OpenSans/OpenSans-Regular.woff);
+}
+@font-face {
+	font-family: OpenSansSemibold;
+	src: url(OpenSans/OpenSans-Semibold.woff);
+}
+@font-face {
+	font-family: OpenSansSemiboldItalic;
+	src: url(OpenSans/OpenSans-SemiboldItalic.woff);
+}
+.Pacifico{
+	font-family: 'Pacifico','Arial','sans-serif';
+
+}
+.OpenSansbold{
+	font-family: 'OpenSansbold','Arial','sans-serif';
+
+}
+.OpenSansBoldItalic{
+	font-family: 'OpenSansBoldItalic','Arial','sans-serif';
+
+}
+
+.OpenSansExtraBold{
+	font-family: 'OpenSansExtraBold','Arial','sans-serif';
+
+}
+
+.OpenSansExtraBoldItalic{
+	font-family: 'OpenSansExtraBoldItalic','Arial','sans-serif';
+
+}
+
+.OpenSansItalic{
+	font-family: 'OpenSansItalic','Arial','sans-serif';
+
+}
+
+.OpenSansLight{
+	font-family: 'OpenSansLight','Arial','sans-serif';
+
+}
+
+.OpenSansLightItalic{
+	font-family: 'OpenSansLightItalic','Arial','sans-serif';
+
+}
+
+.OpenSansLightRegular{
+	font-family: 'OpenSansLightRegular','Arial','sans-serif';
+
+}
+
+.OpenSansSemibold{
+	font-family: 'OpenSansSemibold','Arial','sans-serif';
+
+}
+
+.OpenSansSemiboldItalic{
+	font-family: 'OpenSansSemiboldItalic','Arial','sans-serif';
+
+}
+
+
+
+
+
+
+
+
+
+
