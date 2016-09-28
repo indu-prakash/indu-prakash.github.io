@@ -13,6 +13,17 @@ body {
 	height: 400px;
 	text-align: center;
 }
+.whitebg{
+	background-color: #fff;
+	height: 400px;
+	text-align: center;
+	position: relative;
+}
+.blackbg{
+	background-color: #000;
+	height: 400px;
+	text-align: center;
+}
 .lightbg{
 	background-color: #edebef;
 	height: 400px;
@@ -25,8 +36,17 @@ body {
 	padding-top: 5%;
 }
 .secondheading{
-	font-family: 'OpenSansSemibold';
+	font-family: 'OpenSansLight';
 	color: #fff;
-	font-size: 2em;
+	font-size: 1.8em;
 	padding-top: 50px;
+}
+.logoimage{
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    max-width: 90%;
 }
